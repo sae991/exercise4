@@ -1,0 +1,41 @@
+# Unity関連ファイル
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+Assets/AssetStoreTools*
+
+# Visual Studio cache directory
+.vs/
+
+# 自動生成されるVS/MD/Consuloソリューションおよびプロジェクトファイル
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+
+# Unity3Dで生成されるメタファイル
+*.pidb.meta
+*.pdb.meta
+
+# Unity3Dのクラッシュレポートで生成されるファイル
+sysinfo.txt
+
+# ビルド関連ファイル
+*.apk
+*.unitypackage
+
+# OS関連
+.DS_Store
